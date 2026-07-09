@@ -1,0 +1,28 @@
+# BIOS Keys by Manufacturer
+
+> Press the key repeatedly immediately after powering on the PC.
+
+| Brand            | BIOS Key                 | Boot Menu (if available) |
+|------------------|--------------------------|--------------------------|
+| ASUS             |        Del / F2          |Esc(laptops) / f8(desktop)|
+| Gigabyte         |           Del            |          F12             |
+| MSI              |           Del            |          F11             |
+| ASRock           |        Del / F2          |          F11             |
+| Acer             |        F2  / Del         |          F12             |
+| Dell             |            F2            |          F12             |
+| HP               |        Esc + F10         |       Esc + F9           |
+| Lenovo (Desktop) |            F1            |          F12             |
+| Lenovo (Laptop)  | F2 / Fn+F2 / Novo Button |    F12 / Novo Button     |
+| Toshiba          |        F2 / Esc          |          F12             |
+| Samsung          |            F2            |       F12 / Esc          |
+| Sony (VAIO)      |            F2            |    Assistance Button     |
+| Alienware        |            F2            |          F12             |
+| Biostar          |            Del           |          F9              |
+| Zotac            |            Del           |        F8 / F11          |
+| Razer            |        F1 / Del          |           -              |
+| Intel            |            F2            |          F10             |
+
+Tip: If the key doesn't work, restart and try pressing it repeatedly as soon as you power on the computer.
+
+
+  
