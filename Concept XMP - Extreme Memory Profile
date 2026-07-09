@@ -1,0 +1,27 @@
+#XMP (Extreme Memory Profile)
+
+What is XMP?
+  XMP (Extreme Memory Profile) is a feature that allows your RAM to run at its max speed.
+  When you install new RAM, it usually runs at a slower default speed for safety and compatibility.
+  Enabling XMP tells the motherboard to use the RAM's correct speed, voltage, and timings.
+
+Simple Example
+Think of your RAM like a sports car.
+  XMP Off : The car is driving in first gear (slower).
+  XMP On  : The car shifts into high gear and performs at its full speed.
+
+Why Enable XMP?
+  Makes your RAM run at its maximum rated speed.
+  Can improve gaming and overall PC performance.
+  Safe to use if your RAM and motherboard support it.
+
+How to Enable XMP?
+1. Restart your computer.
+2. Press Delete or F2 while the PC is starting to enter the BIOS.
+3. Find the XMP setting. (On some AMD motherboards, it may be be called EXPO or DOCP).
+4. Change it from Disabled to Profile 1.
+5. Save the changes and restart your PC.
+
+YT:
+https://www.youtube.com/watch?v=mgnFnMXhrWk
+https://www.youtube.com/watch?v=5Evapi5gZAw&t=23s
