@@ -1,2 +1,2 @@
-# Notes
-Computer Repair Case Notes
+# Elec. Notes
+Electronics Repair Case Notes
