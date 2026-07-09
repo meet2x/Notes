@@ -1,0 +1,23 @@
+# Case 1:
+  - Problem
+    Computer doesn't start.
+    Sometimes it works for 2–3 days, then stops starting again.
+
+  -Solution
+    Replace the CMOS battery (mainly in older laptops).
+    Newer laptops usually don't have a separate CMOS battery because they use the main battery.
+
+  -Learning
+    After replacing the CMOS battery and reconnecting the main battery in HP and Dell laptops, let the laptop restart on its own (it may restart up to 3 times).Do not force it off, as this can cause motherboard or IC problems.
+    If the laptop gives 3 beeps or other beep patterns, listen carefully. Different beep codes indicate different issues, such as loose RAM or other hardware problems.
+
+  -Concept
+    What is a CMOS Battery?
+    A CMOS battery is a small, coin-shaped battery on the motherboard (it looks like a large watch battery).
+    What it does,
+    Keeps Time          : Saves the date and time even when the laptop is turned off.
+    Saves BIOS Settings : Stores BIOS settings like boot order and hardware configuration.
+    Simple Example      : Like a watch battery keeps a watch running, the CMOS battery keeps the computer's BIOS memory alive when there is no power.
+
+    YT :
+  - https://www.youtube.com/shorts/k1ccrUQuZDw
